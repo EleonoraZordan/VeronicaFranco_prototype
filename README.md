@@ -1,14 +1,13 @@
-# VeronicaFranco_prototype
-
-#Reshaping the figure of the Courtesan in a digital archive: a feminist case study on Veronica Franco
+# Reshaping the figure of the Courtesan in a digital archive: a feminist case study on Veronica Franco
+# A prototype
 
 This repository contains the documentation regarding the prototype realised for my MA's Degree dissertation in Digital &amp; Public Humanities. 
 
 # The aim
 
-The research question undertaken regards the condition of Venetian courtesans in the 16th century and it is here presented as a case study. In
-particular, the research focuses on archival documents concerning Veronica Franco (1546-1591). Through the figure of this <i>cortigiana onesta</i> and poetess, this work aims to shed
-light on the identity of a subordinate class. The interdisciplinary, intersectional and feminist approach of the research seeks to dismantle a deep and secular historiographical prejudice by giving space to those women who, even if victims of structural discrimination in Venetian society, were able to defend themselves and fight back, as in the case of Veronica Franco. 
+The research question undertaken regards the condition of Venetian courtesans in the 16th century and it is here presented as a case study. 
+In particular, the research focuses on archival documents concerning Veronica Franco (1546-1591). Through the figure of this <i>cortigiana onesta</i> and poetess, this work aims to shed light on the identity of a subordinate class. 
+The interdisciplinary, intersectional and feminist approach of the research seeks to dismantle a deep and secular historiographical prejudice by giving space to those women who, even if victims of structural discrimination in Venetian society, were able to defend themselves and fight back, as in the case of Veronica Franco. 
 
 
 # Venetian 16th-century courtesans & Veronica Franco

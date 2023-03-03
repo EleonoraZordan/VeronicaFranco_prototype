@@ -43,8 +43,6 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-
-                                <support> </support>
                                 <extent>
                                     <measure unit="pages" quantity="4"> The original analogue will
                                         is composed of 4 pages, one of them is a blank page. </measure>
@@ -88,7 +86,6 @@
                 </skos:Concept>
             </rdf:RDF>
         </xenoData>
-
     </teiHeader>
     <facsimile>
         <surface type="it">
